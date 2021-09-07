@@ -1,0 +1,25 @@
+﻿  DocScanner.cpp
+A:\Project1_Doc_Scanner\DocScanner.cpp(50,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+A:\Project1_Doc_Scanner\DocScanner.cpp(57,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+A:\Project1_Doc_Scanner\DocScanner.cpp(108,49): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+A:\Project1_Doc_Scanner\DocScanner.cpp(108,46): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+A:\Project1_Doc_Scanner\DocScanner.cpp(113,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+A:\Project1_Doc_Scanner\DocScanner.cpp(135,42): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+A:\Project1_Doc_Scanner\DocScanner.cpp(135,28): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Project1_Doc_Scanner.vcxproj -> A:\Project1_Doc_Scanner\x64\Debug\Project1_Doc_Scanner.exe
